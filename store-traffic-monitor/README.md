@@ -60,7 +60,7 @@ All configurations are written to resources/conf.txt
 
 * 2nd line: `path/to/model.bin`  
    This is the path to the model weights on the local system.  
-   The model weights file is the .bin file that the model optimizer produces, containing the IR of the model's wights.
+   The model weights file is the .bin file that the model optimizer produces, containing the IR of the model's weights.
 
 * 3rd line: `path/to/labels`  
    This is a path to the labels file on the local system.  
